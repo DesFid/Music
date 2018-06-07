@@ -1,0 +1,11 @@
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/obj/Debug/netcoreapp2.1/Music.csprojAssemblyReference.cache
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/obj/Debug/netcoreapp2.1/Music.csproj.CoreCompileInputs.cache
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/obj/Debug/netcoreapp2.1/Music.AssemblyInfoInputs.cache
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/obj/Debug/netcoreapp2.1/Music.AssemblyInfo.cs
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/bin/Debug/netcoreapp2.1/Music.deps.json
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/bin/Debug/netcoreapp2.1/Music.runtimeconfig.json
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/bin/Debug/netcoreapp2.1/Music.runtimeconfig.dev.json
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/bin/Debug/netcoreapp2.1/Music.dll
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/bin/Debug/netcoreapp2.1/Music.pdb
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/obj/Debug/netcoreapp2.1/Music.dll
+/media/desf/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/Music/obj/Debug/netcoreapp2.1/Music.pdb
